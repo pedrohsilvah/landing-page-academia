@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: url(/imagens/mulheracademia.jpg);
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 0.664)), url(/imagens/mulheracademia.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -73,8 +73,6 @@ p#inscreva {
 section#pflex {
     display: flex;
     margin-top: 80px;
-    margin-right: 10px;
-    margin-left: 10px;
     justify-content: space-between;
 }
 
@@ -83,7 +81,7 @@ section#pflex {
     color: white;
     font-family: 'Concert One', cursive;
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px;
 }
 
