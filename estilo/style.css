@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 0.664)), url(/imagens/mulheracademia.jpg);
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 0.664)), url(../imagens/mulheracademia.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
